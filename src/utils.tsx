@@ -1,0 +1,12 @@
+//export const baseUrl = "http://localhost:3000";
+export const baseUrl = "https://apicamping-d2dsdrfjfhecfvb9.westeurope-01.azurewebsites.net";//"https://camping-api-c6gjc2heengcatga.westeurope-01.azurewebsites.net";
+export const signUpEndpoint = "/api/auth/register";
+export const loginEndpoint = "/api/auth/login";
+export const accomodationsEndpoint = "/api/accommodations";
+export const accomodationDetailEndpoint = "/api/accommodations/";
+export const accomodationsDetailAmentiesEndpoint = "/api/accommodations/:";
+export const bookingsEndpoint = "/api/bookings";
+export const postBookingEndpoint = "/api/bookings";
+export const getBookingDetailEndpoint = "/api/bookings/";
+export const deleteBookingDetailEndpoint = "/api/bookings/";
+export const putBookingDetailEndpoint = "/api/bookings/";
